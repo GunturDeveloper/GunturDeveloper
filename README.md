@@ -1,3 +1,4 @@
+![Guntur Developer](https://avatars.githubusercontent.com/u/161219490?v=4)
 # Guntur Developer
 
 ## Tentang Saya
@@ -9,8 +10,7 @@ Halo, saya Guntur, seorang developer dengan pengalaman di berbagai bidang pengem
 - **Bahasa Pemrograman**: JavaScript, Python, Java, C++, Kotlin, Pascal
 - **Framework & Library**: Bootstrap, Tailwind
 - **Database**: Firebase, Supabase, PostgreSQL
-- **Tools & Teknologi**: Git
-- 
+- **Tools & Teknologi**: Git, Arduino, TinkerCad, Replit, C++ Dev, AndroidIDE
 ## Pendidikan
 
 - **[Teknik Mekatronika]**, [SMK-SMTI YOGYAKARTA] - [2024 - 2028]
@@ -71,5 +71,5 @@ Website ini merupakan alat web yang memungkinkan pengguna untuk memblokir nomor 
 ### MedicalBot Patrol - Robot Medis Patroli Untuk Lomba
 MedicalBot Patrol adalah robot medis yang dirancang untuk berpatroli di fasilitas kesehatan. Robot ini dapat memantau kondisi pasien, mengirimkan laporan ke tenaga medis, dan membantu dalam situasi darurat.
 
-Terima kasih telah mengunjungi profil saya! Jika kamu memiliki pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghubungi saya.
+Terima kasih telah mengunjungi profil saya! 
 ---
