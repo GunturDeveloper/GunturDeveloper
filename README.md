@@ -1,19 +1,49 @@
 ![Guntur Developer](https://avatars.githubusercontent.com/u/161219490?v=4)
 # Guntur Developer
-
 ## Tentang Saya
 
 Halo, saya Guntur, seorang developer dengan pengalaman di berbagai bidang pengembangan perangkat lunak. Saya memiliki keahlian dalam pemrograman, pengembangan web, dan pembuatan aplikasi. Dengan latar belakang yang kuat dalam teknologi dan metode pengembangan terbaru, saya berkomitmen untuk menciptakan solusi yang inovatif dan efisien.
 
 ## Keahlian
 
-- **Bahasa Pemrograman**: JavaScript, Python, Java, C++, Kotlin, Pascal
-- **Framework & Library**: Bootstrap, Tailwind
-- **Database**: Firebase, Supabase, PostgreSQL
-- **Tools & Teknologi**: Git, Arduino, TinkerCad, Replit, C++ Dev, AndroidIDE
-## Pendidikan
+### Bahasa Pemrograman
+- JavaScript
+- Python
+- Java
+- C++
+- Kotlin
+- Pascal
 
-- **[Teknik Mekatronika]**, [SMK-SMTI YOGYAKARTA] - [2024 - 2028]
+### Framework & Library
+- Bootstrap
+- Tailwind
+- Vuetify
+- Bulma
+- TensorFlow
+- OpenCV
+- Django
+- Pyramid
+- Flask
+- Tornado
+
+### Database
+- Firebase
+- Supabase
+- PostgreSQL
+- MariaDB
+- MySQL
+
+### Tools & Teknologi
+- Git
+- Arduino
+- TinkerCad
+- Replit
+- C++ Dev
+- AndroidIDE
+  
+## Pendidikan
+- [MTSN 6 BANTUL] - [2021 - 2024]
+- [SMK-SMTI YOGYAKARTA] - [2024 - 2028]
 
 ## Kontak
 
@@ -73,3 +103,7 @@ MedicalBot Patrol adalah robot medis yang dirancang untuk berpatroli di fasilita
 
 Terima kasih telah mengunjungi profil saya! 
 ---
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunturdeveloper&show_icons=true&locale=en&layout=compact" alt="gunturdeveloper" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunturdeveloper&" alt="gunturdeveloper" /></p>
