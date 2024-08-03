@@ -29,7 +29,6 @@ Halo, saya Guntur, seorang developer dengan pengalaman di berbagai bidang pengem
 ### Database
 - Firebase
 - Supabase
-- PostgreSQL
 - MariaDB
 - MySQL
 
