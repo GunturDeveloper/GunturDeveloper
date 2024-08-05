@@ -42,7 +42,7 @@ Halo, saya Guntur, seorang developer dengan pengalaman di berbagai bidang pengem
   
 ## Pendidikan
 - [MTSN 6 BANTUL] - [2021 - 2024]
-- [SMK-SMTI YOGYAKARTA] - [2024 - 2028]
+- [SMK-SMTI YOGYAKARTA] - [2024 - Sekarang]
 
 ## Kontak
 
