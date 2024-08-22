@@ -17,20 +17,13 @@ Halo, saya Guntur, seorang developer dengan pengalaman di berbagai bidang pengem
 ### Framework & Library
 - Bootstrap
 - Tailwind
-- Vuetify
-- Bulma
-- TensorFlow
-- OpenCV
 - Django
-- Pyramid
 - Flask
-- Tornado
 
 ### Database
 - Firebase
 - Supabase
 - MariaDB
-- MySQL
 
 ### Tools & Teknologi
 - Git
