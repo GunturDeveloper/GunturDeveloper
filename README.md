@@ -13,7 +13,9 @@ Halo, saya Guntur, seorang developer dengan pengalaman di berbagai bidang pengem
 - C++
 - Kotlin
 - Pascal
-
+- C#
+- C
+  
 ### Framework & Library
 - Bootstrap
 - Tailwind
