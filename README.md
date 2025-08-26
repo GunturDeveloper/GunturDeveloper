@@ -1,4 +1,4 @@
-![Guntur Developer](https://avatars.githubusercontent.com/u/161219490?v=4)
+![Guntur Developer]
 # Guntur Developer
 ## Tentang Saya
 
